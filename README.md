@@ -1,4 +1,5 @@
 # tetris, assembler x86
+![tetris screenshot](/tetris.jpg)
 
 # ИСТОРИЧЕСКИЙ ЛИКБЕЗ
 
